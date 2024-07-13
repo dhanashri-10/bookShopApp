@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":2,
+        "name": "Fiction",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":3,
+        "name": "Narrative",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":4,
+        "name": "Mystery",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 600,
+        "category": "Mystery",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":5,
+        "name": "Science Fiction",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 400,
+        "category": "Sci-Fi",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":6,
+        "name": "Historical Fiction",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":7,
+        "name": "Thriller",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 500,
+        "category": "Thriller",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":8,
+        "name": "Romance novel",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 800,
+        "category": "Romance",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":9,
+        "name": "Biography",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 300,
+        "category": "Biography",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":10,
+        "name": "Fantacy Fiction",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 1000,
+        "category": "Fantacy",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    },
+
+     {
+        "id":11,
+        "name": "Short Story",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/illustration-magic-spell-book-with-crystal-middle_295116-238.jpg?uid=R106655967&ga=GA1.1.1397750762.1720206700&semt=sph"
+    }
+]
